@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/fred.dev-yellow?style=for-the-badge)](https://fred.dev)
 [![Personal Email Badge](https://img.shields.io/badge/hi@fred.dev-blue?style=for-the-badge)](mailto:hi@fred.dev)
-[![Work Email Badge](https://img.shields.io/badge/fred@mindee.co-blue?style=for-the-badge)](mailto:fred@kubefirst.io)
+[![Work Email Badge](https://img.shields.io/badge/fred@kubefirst.io-blue?style=for-the-badge)](mailto:fred@kubefirst.io)
 [![Coffee Chat Badge](https://img.shields.io/badge/-coffee%20chat-lightgrey?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://calendly.com/fharper/coffee)
 [![RSS Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://fred.dev/feed)
 
