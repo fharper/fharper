@@ -15,11 +15,3 @@
 As the Principal Developer Advocate at Kubefirst, Frédéric Harper helps Developers, and DevOps be successful with their Kubernetes journey. Fred has shared his passion for technology on the stage at multitudinous events around the world. He’s helped build successful, and healthy communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit. He is also the author of the book Personal Branding for Developers at Apress. Behind this extrovert is a very passionate individual who believes in the power of communication... and cat videos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharper&show_icons=true&theme=radical&custom_title=Stats&hide=ranks)
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#396](https://github.com/kubefirst/docs/pull/396) in [kubefirst/docs](https://github.com/kubefirst/docs)
-2. 🔒 Closed issue [#48](https://github.com/kubefirst/docs/issues/48) in [kubefirst/docs](https://github.com/kubefirst/docs)
-3. 🎉 Merged PR [#394](https://github.com/kubefirst/docs/pull/394) in [kubefirst/docs](https://github.com/kubefirst/docs)
-4. ❌ Closed PR [#392](https://github.com/kubefirst/docs/pull/392) in [kubefirst/docs](https://github.com/kubefirst/docs)
-5. 🔒 Closed issue [#76](https://github.com/kubefirst/docs/issues/76) in [kubefirst/docs](https://github.com/kubefirst/docs)
-<!--END_SECTION:activity-->
