@@ -12,6 +12,6 @@
  [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/author/show/8561836.Fr_d_ric_Harper)
  [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/fharper_)
 
-As the Principal Developer Advocate at Kubefirst, Frédéric Harper helps Developers, and DevOps be successful with their Kubernetes journey. Fred has shared his passion for technology on the stage at multitudinous events around the world. He’s helped build successful, and healthy communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit. He is also the author of the book Personal Branding for Developers at Apress. Behind this extrovert is a very passionate individual who believes in the power of communication... and cat videos.
+As the Principal Developer Advocate at Konstruct, Frédéric Harper helps Developers, and DevOps be successful with their Kubernetes journey. Fred has shared his passion for technology on the stage at multitudinous events around the world. He’s helped build successful, and healthy communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit. He is also the author of the book Personal Branding for Developers at Apress. Behind this extrovert is a very passionate individual who believes in the power of communication... and cat videos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharper&show_icons=true&theme=radical&custom_title=Stats&hide=ranks)
