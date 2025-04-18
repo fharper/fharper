@@ -1,5 +1,7 @@
 ### Hi there, I'm Fred 👋
 
+**I'm actually [looking for my next challenge](https://fred.dev/looking-for-my-next-challenge/): [email me](mailto:hi@fred.dev) if you are looking for a developer advocate.**
+
 [![Website Badge](https://img.shields.io/badge/fred.dev-yellow?style=for-the-badge)](https://fred.dev)
 [![Personal Email Badge](https://img.shields.io/badge/hi@fred.dev-blue?style=for-the-badge)](mailto:hi@fred.dev)
 [![Work Email Badge](https://img.shields.io/badge/fred@konstruct.io-blue?style=for-the-badge)](mailto:fred@konstruct.io)
