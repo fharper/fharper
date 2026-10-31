@@ -14,4 +14,4 @@
 
 Frédéric Harper is a seasoned Developer Advocate with over 20 years in tech, currently Senior Developer Relations Manager at Tiugo Technologies specializing in TinyMCE rich text editor. Fred has held developer advocacy roles at industry giants such as Microsoft, Mozilla, Fitbit, and npm. He's spoken at hundreds of events globally and authored "Success in Programming – How to Gain Recognition, Power, and Influence Through Personal Branding" (Apress). Outside of tech, he is a cat lover, and teaches meditation and Buddhist philosophy.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharper&show_icons=true&theme=radical&custom_title=Stats&hide=ranks)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=fharper&show_icons=true&theme=radical&custom_title=Stats&hide_rank=true)
